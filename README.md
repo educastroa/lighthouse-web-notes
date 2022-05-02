@@ -1,7 +1,8 @@
 # [Eduardo]'s Notes;
-bla bla bla
+Summary
 
-[Eduardo](https://github.com/educastroa)(URL)
+This repository contains all of the notes taken by [Eduardo](https://github.com/educastroa) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
-[Lighthouse Labs](https://www.lighthouselabs.ca/)(URL)
+
+
 
